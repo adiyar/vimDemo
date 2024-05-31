@@ -1,0 +1,9 @@
+how to run :
+
+goto C:\Users\adiya\OneDrive\Desktop\BU\chromeAutoDemo\AdiDemo and run "mvn clean test"
+
+if you want to run a specific file run the following command :
+mvn clean test -Dfile="src/test/resources/testng.xml"
+
+run with tags :
+mvn test -Dfile="src/test/resources/testng.xml" -D"cucumber.filter.tags=@smoke"
