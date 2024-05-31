@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="825c505a-a888-4bf2-87aa-3e686aa8934c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../vimDemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/Infrastructure/ChromeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/Infrastructure/CommonPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/Infrastructure/Timeouts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/StepDefinitions/BasicSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/StepDefinitions/ContactUsSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/StepDefinitions/Instances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/StepDefinitions/MainPageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/StepDefinitions/TestRunnerChromeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/StepDefinitions/allure.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/StepDefinitions/extentReport.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/StepDefinitions/openReports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/page_objects/Chrome/ChromeMainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/page_objects/Chrome/ContactUsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/page_objects/factories/ChromeContactUsPageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/page_objects/factories/ChromeMainPageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/page_objects/interfaces/ContactUs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/java/page_objects/interfaces/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/resources/command.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/resources/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/resources/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/resources/extent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/resources/features/Demo.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/resources/klov.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/resources/reportportal.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vimDemo/src/test/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Infrastructure/ChromeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Infrastructure/CommonPageObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Infrastructure/Timeouts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/BasicSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/ContactUsSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/Instances.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/MainPageSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/TestRunnerChromeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/allure.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/extentReport.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/openReports.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/page_objects/Chrome/ChromeMainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/page_objects/Chrome/ContactUsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/page_objects/factories/ChromeContactUsPageFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/page_objects/factories/ChromeMainPageFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/page_objects/interfaces/ContactUs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/page_objects/interfaces/MainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/command.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/cucumber.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/extent-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/extent.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Demo.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/klov.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/reportportal.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2hDriuT7qpgskuV0xrJQ1VORTZv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/adiya/OneDrive/Desktop/BU/vimDemo/untitled/src/test/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adiya\OneDrive\Desktop\BU\vimDemo\untitled\src\test\java" />
+      <recent name="C:\Users\adiya\OneDrive\Desktop\BU\vimDemo\untitled\src\test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="825c505a-a888-4bf2-87aa-3e686aa8934c" name="Changes" comment="" />
+      <created>1717139621859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717139621859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
