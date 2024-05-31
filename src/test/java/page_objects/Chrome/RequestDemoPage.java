@@ -23,7 +23,7 @@ public class RequestDemoPage extends CommonPageObject implements RequestDemo {
     }
 
     @Override
-    public void RequestDemo() {
+    public void RequestDemoShown() {
         verifyElementDisplayed("Demo request", demoRequest);
         verifyElementDisplayed("See how ...", seeHowTitle);
     }

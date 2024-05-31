@@ -10,7 +10,7 @@ public class ContactUsSteps extends Instances{
 
     @Then("Request a Demo page is shown")
     public void RequestDemoPageLoad() {
-        requestDemoPage.RequestDemo();
+        requestDemoPage.RequestDemoShown();
     }
 
 
