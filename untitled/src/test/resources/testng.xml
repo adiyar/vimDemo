@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="COMMPEAK Suite" verbose="1" >
+    <test name="VIM tests">
+        <classes>
+            <class name="StepDefinitions.TestRunnerChromeDemo" />
+<!--            <class name="StepDefinitions.openReports" />-->
+        </classes>
+    </test>
+</suite>

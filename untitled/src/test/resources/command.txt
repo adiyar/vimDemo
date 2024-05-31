@@ -1,0 +1,1 @@
+mvn clean test -Dfile="src/test/resources/testng.xml" -D"cucumber.filter.tags=@smoke"
