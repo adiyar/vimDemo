@@ -1,4 +1,4 @@
-Feature: COMMPEAK demo
+Feature: VIM demo
   These Tests verify CHROME UI.
 
   @smoke
